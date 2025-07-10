@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Badin
+🌟 Cybersecurity Student | Aspiring Pentester | CTF Enthusiast  
 
-<!--
-**badin9012/badin9012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔍 Learning about networks, security, and hacking ethically
+- 🛠️ Building a home lab to practice offensive & defensive skills
+- 🎯 Interested in penetration testing and blue team work
 
-Here are some ideas to get you started:
+## 🧰 Tools & Skills
+- Linux, Windows, Networking
+- Wireshark, Burp Suite, Metasploit
+- Python & Bash scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- 📧 email@example.com
+- 🌐 [My Website](https://badin9012.github.io)
+
+## 📂 Projects
+➡️ Check out my repositories below for CTF write-ups, tools, and labs!
+
